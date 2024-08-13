@@ -1,6 +1,6 @@
 # MODERN LOGIN UI x FLUTTER
 
-Watch tutorial hare [Youtube](https://youtu.be/LMj64Nv0MPE?si=XQrauUgEVIEri1Pe),
+Watch tutorial here [Youtube](https://youtu.be/LMj64Nv0MPE?si=XQrauUgEVIEri1Pe),
 
 UI Peview [Dribbble](https://dribbble.com/shots/24674255-ModernLoginUI-Flutter)
 
